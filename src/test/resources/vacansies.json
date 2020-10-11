@@ -1,0 +1,1411 @@
+{
+  "items": [
+    {
+      "id": "39436790",
+      "premium": false,
+      "name": "QA Engineer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "3891943",
+        "name": "Мобирикс",
+        "url": "https://api.hh.ru/employers/3891943",
+        "alternate_url": "https://hh.ru/employer/3891943",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3074492.png",
+          "240": "https://hhcdn.ru/employer-logo/3074493.png",
+          "original": "https://hhcdn.ru/employer-logo-original/658336.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3891943",
+        "trusted": true
+      },
+      "published_at": "2020-10-06T16:25:58+0300",
+      "created_at": "2020-10-06T16:25:58+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=39436790",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/39436790?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/39436790",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт тестирования мобильных приложений от 2 лет. Отличное понимание жизненного цикла разработки приложения. Понимание клиент-серверной архитектуры приложений. ",
+        "responsibility": "Функциональное и нефункциональное тестирование приложений на мобильных устройствах (iOS, Android). Разработка тестовой документации (тест-кейсы, чеклисты). Проверка приложения на соответствие..."
+      },
+      "contacts": {
+        "name": "Приемка Каролина",
+        "email": "team@mobyrix.com",
+        "phones": [
+          {
+            "comment": null,
+            "city": "29",
+            "number": "5546037",
+            "country": "375"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "34234522",
+      "premium": false,
+      "name": "Web QA Engineer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Минск",
+        "street": "Тучинский переулок",
+        "building": null,
+        "description": null,
+        "lat": 53.90771,
+        "lng": 27.529016,
+        "raw": "Минск, Тучинский переулок",
+        "metro": {
+          "station_name": "Молодежная",
+          "line_name": "Автозаводская",
+          "station_id": "63.420",
+          "line_id": "63",
+          "lat": 53.906527,
+          "lng": 27.521308
+        },
+        "metro_stations": [
+          {
+            "station_name": "Молодежная",
+            "line_name": "Автозаводская",
+            "station_id": "63.420",
+            "line_id": "63",
+            "lat": 53.906527,
+            "lng": 27.521308
+          }
+        ],
+        "id": "696002"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "2509716",
+        "name": "Изибрэйн",
+        "url": "https://api.hh.ru/employers/2509716",
+        "alternate_url": "https://hh.ru/employer/2509716",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/2637381.png",
+          "240": "https://hhcdn.ru/employer-logo/2637382.png",
+          "original": "https://hhcdn.ru/employer-logo-original/548977.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2509716",
+        "trusted": true
+      },
+      "published_at": "2020-10-08T10:07:31+0300",
+      "created_at": "2020-10-08T10:07:31+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=34234522",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/34234522?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/34234522",
+      "relations": [],
+      "snippet": {
+        "requirement": "Deep understanding of the software development and testing process. Experience in testing server interfaces / API at least 2 years. ",
+        "responsibility": "Testing highly loaded API services. Testing mobile services and applications. Maintenance of test documentation."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "38275560",
+      "premium": false,
+      "name": "QA Engineer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Минск",
+        "street": "улица Тимирязева",
+        "building": "72",
+        "description": null,
+        "lat": 53.924702,
+        "lng": 27.511606,
+        "raw": "Минск, улица Тимирязева, 72",
+        "metro": null,
+        "metro_stations": [],
+        "id": "2095191"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "2668179",
+        "name": "Номари продакшн",
+        "url": "https://api.hh.ru/employers/2668179",
+        "alternate_url": "https://hh.ru/employer/2668179",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/2823199.png",
+          "240": "https://hhcdn.ru/employer-logo/2823200.png",
+          "original": "https://hhcdn.ru/employer-logo-original/595486.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2668179",
+        "trusted": true
+      },
+      "published_at": "2020-10-06T13:38:51+0300",
+      "created_at": "2020-10-06T13:38:51+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=38275560",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/38275560?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/38275560",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт мануального тестирования от 2 лет. Опыт формирования тестовой документации: тест-кейсов, smoke-тестов, чек-листов. Владение инструментами разработчика в...",
+        "responsibility": "Мануальное тестирование веб-платформы и мобильных приложений на iOS, Android. Поддержание и совершенствование процессов тестирования. Обновление тестовой документации в Google..."
+      },
+      "contacts": {
+        "name": "Зайцева Мария",
+        "email": "team@knomary.com",
+        "phones": []
+      },
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "38583320",
+      "premium": true,
+      "name": "QA Automation Engineer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "672796",
+        "name": "SoftSwiss",
+        "url": "https://api.hh.ru/employers/672796",
+        "alternate_url": "https://hh.ru/employer/672796",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3068076.png",
+          "240": "https://hhcdn.ru/employer-logo/3068077.png",
+          "original": "https://hhcdn.ru/employer-logo-original/656732.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=672796",
+        "trusted": true
+      },
+      "published_at": "2020-10-05T09:58:01+0300",
+      "created_at": "2020-10-05T09:58:01+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=38583320",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/38583320?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/38583320",
+      "relations": [],
+      "snippet": {
+        "requirement": "Обязательно: Опыт от 3 лет в разработке системы для автоматического функционального тестирования web проектов (Java). Опыт работы с Selenium WebDriver. ",
+        "responsibility": "В связи с расширением штата в команду необходим опытный <highlighttext>QA</highlighttext>, готовый не только проводить тестирование, но и принимать активное участие..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [
+        {
+          "id": "only_saturday_and_sunday",
+          "name": "Работа только по сб и вс"
+        }
+      ],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно работать сменами по 4–6 часов в день"
+        }
+      ],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": true
+    },
+    {
+      "id": "39600200",
+      "premium": false,
+      "name": "QA Engineer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Минск",
+        "street": "Домбровская улица",
+        "building": "9",
+        "description": null,
+        "lat": 53.911291,
+        "lng": 27.454599,
+        "raw": "Минск, Домбровская улица, 9",
+        "metro": {
+          "station_name": "Кунцевщина",
+          "line_name": "Автозаводская",
+          "station_id": "63.417",
+          "line_id": "63",
+          "lat": 53.906236,
+          "lng": 27.453916
+        },
+        "metro_stations": [
+          {
+            "station_name": "Кунцевщина",
+            "line_name": "Автозаводская",
+            "station_id": "63.417",
+            "line_id": "63",
+            "lat": 53.906236,
+            "lng": 27.453916
+          }
+        ],
+        "id": "3789799"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "3190372",
+        "name": "Игро Тэк",
+        "url": "https://api.hh.ru/employers/3190372",
+        "alternate_url": "https://hh.ru/employer/3190372",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/2496920.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/2496921.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/513833.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3190372",
+        "trusted": true
+      },
+      "published_at": "2020-10-02T19:54:42+0300",
+      "created_at": "2020-10-02T19:54:42+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=39600200",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/39600200?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/39600200",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт тестирования игровых проектов от 2 лет. Опыт работы с Git. Знание и понимание процессов тестирования ПО. Навыки тестирования 3...",
+        "responsibility": "Функциональное тестирование. Оформление дефектов в баг-трекинговой системе. Составление тест-плана, чек-листов. Разработка тестовой документации. Анализ результатов тестирования. "
+      },
+      "contacts": {
+        "name": "Перепечко Ольга",
+        "email": "job@igro-tek.com",
+        "phones": [
+          {
+            "comment": null,
+            "city": "44",
+            "number": "5127178",
+            "country": "375"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "39288792",
+      "premium": false,
+      "name": "QA engineer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Минск",
+        "street": "проспект Независимости",
+        "building": "177",
+        "description": null,
+        "lat": 53.945793,
+        "lng": 27.682951,
+        "raw": "Минск, проспект Независимости, 177",
+        "metro": {
+          "station_name": "Уручье",
+          "line_name": "Московская",
+          "station_id": "62.402",
+          "line_id": "62",
+          "lat": 53.945348,
+          "lng": 27.68782
+        },
+        "metro_stations": [
+          {
+            "station_name": "Уручье",
+            "line_name": "Московская",
+            "station_id": "62.402",
+            "line_id": "62",
+            "lat": 53.945348,
+            "lng": 27.68782
+          }
+        ],
+        "id": "843831"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "2916748",
+        "name": "Инватекс Софтвер",
+        "url": "https://api.hh.ru/employers/2916748",
+        "alternate_url": "https://hh.ru/employer/2916748",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3189616.png",
+          "240": "https://hhcdn.ru/employer-logo/3189617.png",
+          "original": "https://hhcdn.ru/employer-logo-original/687121.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2916748",
+        "trusted": true
+      },
+      "published_at": "2020-10-08T10:16:44+0300",
+      "created_at": "2020-10-08T10:16:44+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=39288792",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/39288792?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/39288792",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт работы в сфере IT от 4-х лет. Опыт тестирования мобильных приложений от 2 лет. Опыт тестирования Android приложений...",
+        "responsibility": "Работать с командой по устранению багов. Работать с багтрекинговой системой. Составлять документацию (тесткейсы, чеклисты и тд). Содействать формированию отдела <highlighttext>QA</highlighttext>."
+      },
+      "contacts": {
+        "name": "Ульяна Бакун",
+        "email": "u.bakun@invatechs.com",
+        "phones": [
+          {
+            "comment": "с 9:00 до 18:00",
+            "city": "29",
+            "number": "5638682",
+            "country": "375"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "39380919",
+      "premium": false,
+      "name": "QA Engineer (Flime by Gismart)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "2389722",
+        "name": "Gismart",
+        "url": "https://api.hh.ru/employers/2389722",
+        "alternate_url": "https://hh.ru/employer/2389722",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3075608.png",
+          "240": "https://hhcdn.ru/employer-logo/3075609.png",
+          "original": "https://hhcdn.ru/employer-logo-original/658615.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2389722",
+        "trusted": true
+      },
+      "published_at": "2020-10-07T13:49:17+0300",
+      "created_at": "2020-10-07T13:49:17+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=39380919",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/39380919?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/39380919",
+      "relations": [],
+      "snippet": {
+        "requirement": "От 2-х лет опыта в тестировании веб и мобильных приложений. Опыт работы с Chrome DevTools, Charles Proxy, ADB, git. ",
+        "responsibility": "Ручное функциональное и нефункциональное тестирование игр. Логирование багов и проверка их исправления. Анализ требований. Оценка активностей по тестированию. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "38484901",
+      "premium": true,
+      "name": "Senior QA Automation Engineer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "745670",
+        "name": "SaM Solutions Самсолюшнс",
+        "url": "https://api.hh.ru/employers/745670",
+        "alternate_url": "https://hh.ru/employer/745670",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/2484721.png",
+          "240": "https://hhcdn.ru/employer-logo/2484722.png",
+          "original": "https://hhcdn.ru/employer-logo-original/510742.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=745670",
+        "trusted": true
+      },
+      "published_at": "2020-10-05T13:53:45+0300",
+      "created_at": "2020-10-05T13:53:45+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=38484901",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/38484901?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/38484901",
+      "relations": [],
+      "snippet": {
+        "requirement": "Experience (3+ years) in automated testing of GUI, API. Experience (2+ years) in using Selenium 2.0. ",
+        "responsibility": "Communication with a client on all <highlighttext>QA</highlighttext> activities as a key <highlighttext>QA</highlighttext> specialist. Creation of test documentation: test strategy, test..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "39258653",
+      "premium": false,
+      "name": "QA Engineer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Минск",
+        "street": "Автозаводская линия",
+        "building": "метро Немига",
+        "description": null,
+        "lat": 53.905732,
+        "lng": 27.554007,
+        "raw": "Минск, Автозаводская линия, метро Немига",
+        "metro": {
+          "station_name": "Немига",
+          "line_name": "Автозаводская",
+          "station_id": "63.422",
+          "line_id": "63",
+          "lat": 53.905615,
+          "lng": 27.55415
+        },
+        "metro_stations": [
+          {
+            "station_name": "Немига",
+            "line_name": "Автозаводская",
+            "station_id": "63.422",
+            "line_id": "63",
+            "lat": 53.905615,
+            "lng": 27.55415
+          }
+        ],
+        "id": "2570343"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "3258382",
+        "name": "Зорачка Софт",
+        "url": "https://api.hh.ru/employers/3258382",
+        "alternate_url": "https://hh.ru/employer/3258382",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/2826483.png",
+          "240": "https://hhcdn.ru/employer-logo/2826484.png",
+          "original": "https://hhcdn.ru/employer-logo-original/596307.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3258382",
+        "trusted": true
+      },
+      "published_at": "2020-10-07T09:36:29+0300",
+      "created_at": "2020-10-07T09:36:29+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=39258653",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/39258653?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/39258653",
+      "relations": [],
+      "snippet": {
+        "requirement": "Deep understanding of the basics of testing (methods, types, levels, etc.). Understanding the principles of the client-server application architecture. ",
+        "responsibility": "Development, compilation, implementation and support of test cases and test plans (TestRail). Functional, integration, system testing of products and load..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "38932197",
+      "premium": false,
+      "name": "Специалист по тестированию ПО/QA",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": true,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": {
+        "from": 1300,
+        "to": null,
+        "currency": "USD",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Минск",
+        "street": "Амураторская улица",
+        "building": "4",
+        "description": null,
+        "lat": 53.910527,
+        "lng": 27.529698,
+        "raw": "Минск, Амураторская улица, 4",
+        "metro": null,
+        "metro_stations": [],
+        "id": "876314"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "2324446",
+        "name": "Флэтлоджик",
+        "url": "https://api.hh.ru/employers/2324446",
+        "alternate_url": "https://hh.ru/employer/2324446",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/2250235.png",
+          "240": "https://hhcdn.ru/employer-logo/2250236.png",
+          "original": "https://hhcdn.ru/employer-logo-original/452067.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2324446",
+        "trusted": true
+      },
+      "published_at": "2020-09-30T16:32:09+0300",
+      "created_at": "2020-09-30T16:32:09+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=38932197",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/38932197?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/38932197",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт работы от 2 лет. Знание SQL. Опыт работы в UNIX окружении. Желательно опыт тестирования data scraping, loading and transformation...",
+        "responsibility": "Составление документации. Разработка процессов тестирования для получения качественных данных. Написание и выполнение ручных и автоматизированных тестов. Создание отчетов об ошибках. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "39436652",
+      "premium": false,
+      "name": "QA Director",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "859391",
+        "name": "AWEM",
+        "url": "https://api.hh.ru/employers/859391",
+        "alternate_url": "https://hh.ru/employer/859391",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/2804299.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/2804300.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/590761.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=859391",
+        "trusted": true
+      },
+      "published_at": "2020-10-06T16:21:43+0300",
+      "created_at": "2020-10-06T16:21:43+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=39436652",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/39436652?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/39436652",
+      "relations": [],
+      "snippet": {
+        "requirement": "Техническая экспертиза в Quality Architect (Manual, <highlighttext>QA</highlighttext> Automation, Governance Automation), <highlighttext>QA</highlighttext> Automation (Web, Mobile, Data, Backend), Site Reliability Engineering, Release...",
+        "responsibility": "Разработка новых и коррекция существующих <highlighttext>QA</highlighttext>-стратегий с учетом потребностей компании. Формирование и корректировка целей, планов, бюджетов <highlighttext>QA</highlighttext>-подразделения на..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "39604079",
+      "premium": true,
+      "name": "QA engineer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Минск",
+        "street": "улица Толстого",
+        "building": "10",
+        "description": null,
+        "lat": 53.888351,
+        "lng": 27.544296,
+        "raw": "Минск, улица Толстого, 10",
+        "metro": null,
+        "metro_stations": [],
+        "id": "3864191"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "1395715",
+        "name": "Руна Системс",
+        "url": "https://api.hh.ru/employers/1395715",
+        "alternate_url": "https://hh.ru/employer/1395715",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3403777.png",
+          "240": "https://hhcdn.ru/employer-logo/3403778.png",
+          "original": "https://hhcdn.ru/employer-logo-original/740704.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1395715",
+        "trusted": true
+      },
+      "published_at": "2020-10-03T21:08:54+0300",
+      "created_at": "2020-10-03T21:08:54+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=39604079",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/39604079?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/39604079",
+      "relations": [],
+      "snippet": {
+        "requirement": "Experience as <highlighttext>QA</highlighttext> engineer 3 years+. Deep knowledge of software development lifecycle and the <highlighttext>QA</highlighttext> role in it. ",
+        "responsibility": "Work in close communication with developers during the Sprint cycle. Communication with team members in sprint planning and estimation. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "39679085",
+      "premium": false,
+      "name": "Senior QA",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Минск",
+        "street": "проспект Победителей",
+        "building": "116",
+        "description": null,
+        "lat": 53.948464,
+        "lng": 27.45636,
+        "raw": "Минск, проспект Победителей, 116",
+        "metro": null,
+        "metro_stations": [],
+        "id": "2789816"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "3588576",
+        "name": "Телесфор Софтваре",
+        "url": "https://api.hh.ru/employers/3588576",
+        "alternate_url": "https://hh.ru/employer/3588576",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3350032.png",
+          "240": "https://hhcdn.ru/employer-logo/3350033.png",
+          "original": "https://hhcdn.ru/employer-logo-original/727237.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3588576",
+        "trusted": true
+      },
+      "published_at": "2020-10-07T13:05:21+0300",
+      "created_at": "2020-10-07T13:05:21+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=39679085",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/39679085?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/39679085",
+      "relations": [],
+      "snippet": {
+        "requirement": "Знание теории, методологии тестирования. Знание и умение применять современные практики и методы тестирования. Опыт тестирования мобильных и web-приложений приложений...",
+        "responsibility": "Тестирование мобильных и web-приложений. Функциональное и нефункциональное тестирование (в том числе API). Анализ бизнес и функциональных требований. "
+      },
+      "contacts": {
+        "name": "Богданович Анна",
+        "email": "hr@telesphorus.by",
+        "phones": [
+          {
+            "comment": null,
+            "city": "29",
+            "number": "6566273",
+            "country": "375"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "39688317",
+      "premium": false,
+      "name": "Team Lead QA Engineer (Hardware&Software quality management)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "227572",
+        "name": "Неро Электроникс",
+        "url": "https://api.hh.ru/employers/227572",
+        "alternate_url": "https://hh.ru/employer/227572",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/2111298.png",
+          "240": "https://hhcdn.ru/employer-logo/2111299.png",
+          "original": "https://hhcdn.ru/employer-logo-original/417306.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=227572",
+        "trusted": true
+      },
+      "published_at": "2020-10-07T17:21:20+0300",
+      "created_at": "2020-10-07T17:21:20+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=39688317",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/39688317?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/39688317",
+      "relations": [],
+      "snippet": {
+        "requirement": "3+ лет опыта работы в роли <highlighttext>QA</highlighttext>. 1+ лет опыта работы в роли <highlighttext>QA</highlighttext> Lead. Опыт в построении...",
+        "responsibility": "Управление командой QAs (5+ человек). Анализ ТЗ и определение стратегии тестирования. Коммуникация с внутренними командами разработки и менеджмента. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "37707871",
+      "premium": false,
+      "name": "Middle QA Engineer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Минск",
+        "street": "Пинская улица",
+        "building": "28А",
+        "description": null,
+        "lat": 53.906358,
+        "lng": 27.516799,
+        "raw": "Минск, Пинская улица, 28А",
+        "metro": null,
+        "metro_stations": [],
+        "id": "2112945"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "2509056",
+        "name": "Он Зэ Спот Девелопмент",
+        "url": "https://api.hh.ru/employers/2509056",
+        "alternate_url": "https://hh.ru/employer/2509056",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/2020174.png",
+          "240": "https://hhcdn.ru/employer-logo/2020175.png",
+          "original": "https://hhcdn.ru/employer-logo-original/394480.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2509056",
+        "trusted": true
+      },
+      "published_at": "2020-10-06T19:29:46+0300",
+      "created_at": "2020-10-06T19:29:46+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=37707871",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/37707871?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/37707871",
+      "relations": [],
+      "snippet": {
+        "requirement": "Сейчас мы в поисках мануального <highlighttext>QA</highlighttext> c опытом от 2-х лет, знакомый с тестированием мобильных игр, который прекрасно знает...",
+        "responsibility": "Смотреть логи в Mac-консоли. Писать кейсы и тестировать по кейсам и по логике приложения –– приложения появляются быстрее, чем документация..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "39222518",
+      "premium": false,
+      "name": "Middle QA Engineer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Минск",
+        "street": "улица Кульман",
+        "building": "11",
+        "description": null,
+        "lat": 53.921854,
+        "lng": 27.577246,
+        "raw": "Минск, улица Кульман, 11",
+        "metro": {
+          "station_name": "Площадь Якуба Коласа",
+          "line_name": "Московская",
+          "station_id": "62.408",
+          "line_id": "62",
+          "lat": 53.915369,
+          "lng": 27.583265
+        },
+        "metro_stations": [
+          {
+            "station_name": "Площадь Якуба Коласа",
+            "line_name": "Московская",
+            "station_id": "62.408",
+            "line_id": "62",
+            "lat": 53.915369,
+            "lng": 27.583265
+          }
+        ],
+        "id": "919524"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "1863804",
+        "name": "Аиском",
+        "url": "https://api.hh.ru/employers/1863804",
+        "alternate_url": "https://hh.ru/employer/1863804",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3331848.png",
+          "240": "https://hhcdn.ru/employer-logo/3331849.png",
+          "original": "https://hhcdn.ru/employer-logo-original/722688.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1863804",
+        "trusted": true
+      },
+      "published_at": "2020-10-08T17:50:18+0300",
+      "created_at": "2020-10-08T17:50:18+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=39222518",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/39222518?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/39222518",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт тестирования WEB приложений. Плюсом будет опыт тестирования нативных и не нативных мобильных приложений (Android, iOS). Уверенные знания функционального и...",
+        "responsibility": "Анализ требований и внесение предложений по улучшению ПО. Тестирование ПО (web и mobile). Написание и поддержка тестовых сценариев, чек-листов..."
+      },
+      "contacts": {
+        "name": "Максимович Анна",
+        "email": "a.maksimovich@aisnovations.com",
+        "phones": []
+      },
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "39678535",
+      "premium": false,
+      "name": "QA automation engineer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "3333265",
+        "name": "ВЭБ Технологии",
+        "url": "https://api.hh.ru/employers/3333265",
+        "alternate_url": "https://hh.ru/employer/3333265",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3521853.png",
+          "240": "https://hhcdn.ru/employer-logo/3521854.png",
+          "original": "https://hhcdn.ru/employer-logo-original/770224.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3333265",
+        "trusted": true
+      },
+      "published_at": "2020-10-07T12:50:35+0300",
+      "created_at": "2020-10-07T12:50:35+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=39678535",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/39678535?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/39678535",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт написания интеграционных, функциональных тестов. Знание ЯП Java SE, Selenium, Postman, понимание принципов работы API (и RESTful-архитектуры), кроссбраузерного тестирования. ",
+        "responsibility": "Принимать участие в автоматизации процессов тестирования на крупном B2B fintech-проекте. Обеспечивать внедрение современных практик CI. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "39435846",
+      "premium": false,
+      "name": "Senior QA Engineer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Минск",
+        "street": "улица Веры Хоружей",
+        "building": "25",
+        "description": null,
+        "lat": 53.9210556941,
+        "lng": 27.5668667328,
+        "raw": "Минск, улица Веры Хоружей, 25",
+        "metro": null,
+        "metro_stations": [],
+        "id": "2438365"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "2873819",
+        "name": "Аффайз",
+        "url": "https://api.hh.ru/employers/2873819",
+        "alternate_url": "https://hh.ru/employer/2873819",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/2993512.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/2993513.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/638090.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2873819",
+        "trusted": true
+      },
+      "published_at": "2020-10-06T15:57:04+0300",
+      "created_at": "2020-10-06T15:57:04+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=39435846",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/39435846?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/39435846",
+      "relations": [],
+      "snippet": {
+        "requirement": "1000+ клиентов по всему миру. Ты имеешь большой опыт в тестировании web-приложений, тебя не пугает Git (release management...",
+        "responsibility": "Тестирование backend, UI, API. Сборка и выкатка релизов. Ведение документации."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "39508729",
+      "premium": false,
+      "name": "QA Engineer Web",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": {
+        "from": null,
+        "to": 850,
+        "currency": "USD",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Минск",
+        "street": "улица Скрыганова",
+        "building": "6",
+        "description": null,
+        "lat": 53.911062,
+        "lng": 27.516745,
+        "raw": "Минск, улица Скрыганова, 6",
+        "metro": null,
+        "metro_stations": [],
+        "id": "2609777"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "3981703",
+        "name": "СофтКорп",
+        "url": "https://api.hh.ru/employers/3981703",
+        "alternate_url": "https://hh.ru/employer/3981703",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3442529.png",
+          "240": "https://hhcdn.ru/employer-logo/3442530.png",
+          "original": "https://hhcdn.ru/employer-logo-original/750392.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3981703",
+        "trusted": true
+      },
+      "published_at": "2020-09-29T10:28:58+0300",
+      "created_at": "2020-09-29T10:28:58+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=39508729",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/39508729?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/39508729",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт работы в <highlighttext>QA</highlighttext> от 6 месяцев. Знание методик тестирования. Опыт работы с Chrome DevTools. Понимание работы клиент-серверных приложений. ",
+        "responsibility": "Ручное тестирование веб-сайтов. Разработка и актуализация тест-кейсов. Документирование багов в баг-трекинговой системе. Регрессионное и исследовательское тестирование. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "39480454",
+      "premium": false,
+      "name": "Mobile QA Engineer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "Минск",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Минск",
+        "street": "Аэродромная улица",
+        "building": "38",
+        "description": null,
+        "lat": 53.871122,
+        "lng": 27.558723,
+        "raw": "Минск, Аэродромная улица, 38",
+        "metro": null,
+        "metro_stations": [],
+        "id": "3815438"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "766249",
+        "name": "СолбегСофт",
+        "url": "https://api.hh.ru/employers/766249",
+        "alternate_url": "https://hh.ru/employer/766249",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3185500.png",
+          "240": "https://hhcdn.ru/employer-logo/3185501.png",
+          "original": "https://hhcdn.ru/employer-logo-original/686092.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=766249",
+        "trusted": true
+      },
+      "published_at": "2020-10-07T12:25:56+0300",
+      "created_at": "2020-10-07T12:25:56+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=39480454",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/39480454?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/39480454",
+      "relations": [],
+      "snippet": {
+        "requirement": "2+ years of professional experience in <highlighttext>QA</highlighttext>. 1+ years of experience in mobile native apps testing (Android, iOS) . ",
+        "responsibility": "Keep up to date with modern testing strategies to improve product quality. Collaborate with the <highlighttext>QA</highlighttext> team and Development team..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    }
+  ],
+  "found": 271,
+  "pages": 14,
+  "per_page": 20,
+  "page": 1,
+  "clusters": null,
+  "arguments": null,
+  "alternate_url": "https://hh.ru/search/vacancy?area=1002&enable_snippets=true&page=1&text=QA"
+}
